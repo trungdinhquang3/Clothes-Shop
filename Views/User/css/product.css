@@ -1,0 +1,7 @@
+.search-box{width:70%;border:transparent;border-bottom-left-radius:10px;border-top-left-radius:10px;padding-left:5%;background-color: rgb(212, 203, 203);}
+#search-icon{height:20px;margin-top:4px}
+.search-button{border:transparent;border-bottom-right-radius:10px;border-top-right-radius:10px;}
+.product-hover li a i{
+    padding-top: 10px;
+}
+ 
